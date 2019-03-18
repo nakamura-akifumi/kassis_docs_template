@@ -1,6 +1,7 @@
 {
   "require": {
     "phpoffice/phpword": "v0.16.*",
-    "gears/pdf":"*"
+    "gears/pdf":"*",
+    "php-amqplib/php-amqplib":"*"
   }
 }
