@@ -3,3 +3,5 @@ tmp/*
 !.gitkeep
 composer.lock
 vendor/
+log/*
+*.log

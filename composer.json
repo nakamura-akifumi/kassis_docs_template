@@ -2,6 +2,9 @@
   "require": {
     "phpoffice/phpword": "v0.16.*",
     "gears/pdf":"*",
-    "php-amqplib/php-amqplib":"*"
+    "php-amqplib/php-amqplib":"*",
+    "rybakit/msgpack": "^0.3.1",
+    "monolog/monolog": "^1.24",
+    "vlucas/phpdotenv": "^3.3"
   }
 }
